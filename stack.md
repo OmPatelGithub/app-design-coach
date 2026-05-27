@@ -1,6 +1,6 @@
 # My Stack
 
-Every tool I use to build, ship, and run mobile apps.
+Tools for building, shipping, and running consumer mobile apps.
 
 ## Design + reference
 - [Mobbin](https://mobbin.com) — design reference library across thousands of apps
