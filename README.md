@@ -1,6 +1,6 @@
 # App Design Coach
 
-Resources from Om Patel's Toronto Tech Week talk on designing consumer apps that convert. 2 apps, 4.5 months, $140K revenue, $30K MRR.
+Resources from a Toronto Tech Week talk on designing consumer apps that convert. 2 apps, 4.5 months, $140K revenue, $30K MRR.
 
 ## What's here
 

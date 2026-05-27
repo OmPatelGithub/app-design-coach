@@ -11,18 +11,15 @@ Every tool I use to build, ship, and run mobile apps.
 ## Build
 - [Cursor](https://cursor.com) — IDE
 - [Claude Code](https://claude.com/claude-code) — CLI agent for engineering work
+- [Wispr Flow](https://wisprflow.ai) — voice-to-text dictation, fast prompting hands-off
 
 ## Monetization
 - [Superwall](https://superwall.com) — paywall A/B testing and native editor
-- [RevenueCat](https://revenuecat.com) — subscription management and revenue dashboards
 
 ## Attribution + analytics
 - [AppsFlyer](https://appsflyer.com) — MMP, install attribution per creator and campaign
 - [Mixpanel](https://mixpanel.com) — event tracking, funnels, cohorts
 - [Sensor Tower](https://sensortower.com) — competitor revenue estimates (treat as directional)
-
-## Engagement
-- [OneSignal](https://onesignal.com) — push notifications
 
 ## Content + ads
 - [Higgsfield](https://higgsfield.ai) — AI image and video generation for content and ads
